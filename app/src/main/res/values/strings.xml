@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    <string name="local_service_label">Local Service</string>
+
+    <string name="remote_service_started">Remote service has been started</string>
+    <string name="remote_service_connected">Remote service has been connected</string>
+    <string name="remote_service_disconnected">Remote service has been disconnected</string>
+    <string name="remote_service_stopped">Remote service has been stopped</string>
+
+</resources>
